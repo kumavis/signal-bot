@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "dbus": "^1.0.7"
+  }
+}
